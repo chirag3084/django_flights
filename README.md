@@ -29,3 +29,4 @@ python manage.py runserver
 8.  add environemnt variables - server should work both locally and remote.
 
 # Tech Stack :- Python,html
+# Happy Learning
