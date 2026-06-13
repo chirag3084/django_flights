@@ -27,3 +27,5 @@ python manage.py runserver
 6. add script.(not neccesary?)
 7.  add postgresql db in render
 8.  add environemnt variables - server should work both locally and remote.
+
+# Tech Stack :- Python,html
