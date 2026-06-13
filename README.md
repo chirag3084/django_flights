@@ -1,3 +1,7 @@
+# Django Flight Project
+
+
+
 # start django project
 
 1. create a folder and open it in visual studio
